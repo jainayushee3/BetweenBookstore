@@ -1,0 +1,17 @@
+.wrapper{
+  margin:0;
+  padding:0;
+  display:flex;
+  height: 100%;
+  background: #293728;
+}
+
+.left{
+  flex:6;
+    
+}
+
+.right{
+  flex:4;
+}
+
